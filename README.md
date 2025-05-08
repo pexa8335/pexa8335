@@ -6,7 +6,7 @@
 
 I'm a software enthusiast passionate about building real-time systems, anomaly detection, and AI applications.  
 Currently focusing on Apache2 log analysis and Digital Twin-based anomaly detection.
-
+My Portfolio: https://believed-linseed-bf2.notion.site/Portfolio-Phan-c-Anh-1ed4568fc5d48090accdde545c947a21
 ---
 
 ## ⚙️ Tech Stack

@@ -27,7 +27,7 @@ My Portfolio: https://believed-linseed-bf2.notion.site/Portfolio-Phan-c-Anh-1ed4
 
 - 🧠 Develop **Agent AI** in the current healthcare chatbot
 - 🔒 Integrate **ABE** (Attribute-based Encryption) into the **healthcare system** for the cryptography project (NT219)
-- 🔍 Build **Intrusion Prevention System (IPS)** using **Suricata** combined with **IPTables**  
+- 🔍 Build **Intrusion Prevention System (IPS)** using **Suricata** combined with **IPTables**  & **ELK Stack (Elasticsearch, Logstash, Kibana)** for visualization
   → Integrate AI-powered **Anomaly Detection** with **Random Forest** on trained data and implement **HoneyPot** for additional security
 
 ---

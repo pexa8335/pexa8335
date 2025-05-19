@@ -28,7 +28,10 @@ My Portfolio: https://believed-linseed-bf2.notion.site/Portfolio-Phan-c-Anh-1ed4
 - 🧠 Develop **Agent AI** in the current healthcare chatbot
 - 🔒 Integrate **ABE** (Attribute-based Encryption) into the **healthcare system** for the cryptography project (NT219)
 - 🔍 Build **Intrusion Prevention System (IPS)** using **Suricata** combined with **IPTables**  & **ELK Stack (Elasticsearch, Logstash, Kibana)** for visualization
-  → Integrate AI-powered **Anomaly Detection** with **Random Forest** on trained data and implement **HoneyPot** for additional security
+  → Integrate AI-powered **Anomaly Detection** with **Random Forest** on trained data and implement **HoneyPot** for additional security (Done - Document soon)
+- 📦 Develop a **Rug Pull Detection Model** for detecting rug pull liquidity pool address, deploy on website
+- 💡 Develop a **Credit card fraud detection** for detecting fraudulent in credit card using ML/DL or even more
+- 🔒 Building an **Fraudulent detection model in Bitcoin blockchain transaction & actors (Wallet address)** using supervised learning (ML) - I will publish my code
 
 ---
 

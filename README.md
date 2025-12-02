@@ -2,29 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=pexa8335&label=Profile%20views&color=0e75b6&style=flat)
 
-## 💡 About Me
-
-I'm a software enthusiast passionate about building real-time systems, anomaly detection, and AI applications.  
-
----
-
-## ⚙️ Tech Stack
-
-- 🧠 **Languages**: Python, C++, Assembly  
-- 🏗️ **Frameworks**: Flask  
-- 📦 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib  
-- 🛠️ **Tools**: Git, Ubuntu, VSCode, Qdrant, Docker  
-- 🔬 **Interest Areas**: Machine Learning, Cybersecurity
-
-
----
-
-## 🌱 What's Next?
-
-- 🧠 Develop **Agent AI** in the current healthcare chatbot
-- 📦 Develop a **Rug Pull Detection Model** for detecting rug pull liquidity pool address, deploy on website
-- 💡 Develop a **Credit card fraud detection** for detecting fraudulent in credit card using ML/DL or even more
-- 🔒 Building an **Fraudulent detection model in Bitcoin blockchain transaction & actors (Wallet address)** using supervised learning (ML) - I will publish my code
+AI.
 
 ---
 
